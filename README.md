@@ -7,4 +7,4 @@ This is project management for bi-weekly Ethereum Staker community calls hosted 
  №  | Date                             |[Audio](https://soundcloud.com/-----)| [Video](https://www.youtube.com)            |Highlights Video         |External Links  |
 --- | -------------------------------- | -------------- | -------------------- | -------------------- | -----------------|
 1|2020-03-23||||
-1|2020-04-06||||
+2|2020-04-06||||
