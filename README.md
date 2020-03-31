@@ -9,6 +9,12 @@ https://twitter.com/eth2scc
 
 Calls are held on alternating Mondays at 10:00pm GMT (5pm Central Daylight Savings Time), beginning 3/23/2020.
 
+### Call location
+
+Calls are currently being held on Zoom using Superphiz's private room: https://us04web.zoom.us/j/7976875922
+
+Meeting ID: 797 687 5922
+
 ### Call History
 
  №  | Date                             |[Audio](https://soundcloud.com/-----)| [Video](https://www.youtube.com)            |Main Topic         |Notice  |
