@@ -5,6 +5,10 @@ This is project management for bi-weekly Ethereum Staker community calls hosted 
 
 https://twitter.com/eth2scc
 
+### Call timing
+
+Calls are held on alternating Mondays at 10:00pm GMT (5pm Central Daylight Savings Time), beginning 3/23/2020.
+
 ### Call History
 
  №  | Date                             |[Audio](https://soundcloud.com/-----)| [Video](https://www.youtube.com)            |Main Topic         |Notice  |
