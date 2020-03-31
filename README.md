@@ -4,7 +4,7 @@ This is project management for bi-weekly Ethereum Staker community calls hosted 
 
 ### Call History
 
- №  | Date                             |[Audio](https://soundcloud.com/-----)| [Video](https://www.youtube.com)            |Main Topic         |External Links  |
+ №  | Date                             |[Audio](https://soundcloud.com/-----)| [Video](https://www.youtube.com)            |Main Topic         |Notice  |
 --- | -------------------------------- | -------------- | -------------------- | -------------------- | -----------------|
-1|2020-03-23|||Prysmatic Labs|
-2|2020-04-06|||Multiclient Testnet|
+1|2020-03-23|unavailable|unavailable|Prysmatic Labs|[Reddit](https://www.reddit.com/r/ethstaker/comments/fnkx2e/im_hosting_a_eth_staker_community_call_on_zoom/)
+2|2020-04-06|||Multiclient Testnet|[Reddit](https://www.reddit.com/r/ethstaker/comments/fpi42w/announcing_the_ethereum_2_stakers_community_call/)
