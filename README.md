@@ -21,4 +21,4 @@ Meeting ID: 797 687 5922
 --- | -------------------------------- | -------------- | -------------------- | -------------------- | -----------------|
 1|2020-03-23|unavailable|unavailable|Prysmatic Labs|[Reddit](https://www.reddit.com/r/ethstaker/comments/fnkx2e/im_hosting_a_eth_staker_community_call_on_zoom/)
 2|2020-04-06|||Multiclient Testnet|[Reddit](https://www.reddit.com/r/ethstaker/comments/fpi42w/announcing_the_ethereum_2_stakers_community_call/)
-3|2020-04-20|||Multiclient Testnet|
+3|2020-04-18|||Prysmatic v1.0 launch party|
