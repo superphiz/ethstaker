@@ -11,9 +11,7 @@ Calls are held on alternating Mondays at 10:00pm GMT (5pm Central Daylight Savin
 
 ### Call location
 
-Calls are currently being held on Zoom using Superphiz's private room: https://us04web.zoom.us/j/7976875922
-
-Meeting ID: 797 687 5922
+Calls are currently being held on Zoom using a link provided in the agenda for each meeting (and linked by the date of the meeting below)
 
 ### Call History
 
@@ -22,4 +20,4 @@ Meeting ID: 797 687 5922
 1|2020-03-23|unavailable|unavailable|Prysmatic Labs|[Reddit](https://www.reddit.com/r/ethstaker/comments/fnkx2e/im_hosting_a_eth_staker_community_call_on_zoom/)
 2|2020-04-06|unavailable|unavailable|Multiclient Testnet|[Reddit](https://www.reddit.com/r/ethstaker/comments/fpi42w/announcing_the_ethereum_2_stakers_community_call/)
 Special #1|2020-04-18||[YouTube](https://youtu.be/bVcrbzUcx6M?t=83)|Prysmatic v1.0 launch party|
-3|2020-04-20|[Agenda](agendas/2020-04-20.md)||Rocket Pool|
+3|[2020-04-20](https://us02web.zoom.us/j/86703865759?pwd=ZGxzZlBQTEY3UEVweGZHOFZ1N29mZz09)|[Agenda](agendas/2020-04-20.md)||Rocket Pool|
