@@ -1,4 +1,4 @@
-# Ethstaker Community Calls
+# Ethereum Staker Community Calls
 This is project management for bi-weekly Ethereum Staker community calls hosted by [Superphiz](https://reddit.com/u/superphiz) and [Lamboshi](https://twitter.com/L_Nakaghini).
 
 ### Follow news about this call on Twitter
