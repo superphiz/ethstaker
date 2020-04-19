@@ -22,4 +22,4 @@ Meeting ID: 797 687 5922
 1|2020-03-23|unavailable|unavailable|Prysmatic Labs|[Reddit](https://www.reddit.com/r/ethstaker/comments/fnkx2e/im_hosting_a_eth_staker_community_call_on_zoom/)
 2|2020-04-06|unavailable|unavailable|Multiclient Testnet|[Reddit](https://www.reddit.com/r/ethstaker/comments/fpi42w/announcing_the_ethereum_2_stakers_community_call/)
 Special #1|2020-04-18||[YouTube](https://youtu.be/bVcrbzUcx6M?t=83)|Prysmatic v1.0 launch party|
-3|2020-04-20|||Rocket Pool|
+3|2020-04-20|[Agenda](agendas/2020-04-20.md)||Rocket Pool|
