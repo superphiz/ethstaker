@@ -21,3 +21,4 @@ Calls are currently being held on Zoom using a link provided in the agenda for e
 2|2020-04-06|unavailable|unavailable|Multiclient Testnet|[Reddit](https://www.reddit.com/r/ethstaker/comments/fpi42w/announcing_the_ethereum_2_stakers_community_call/)
 Special #1|2020-04-18||[YouTube](https://youtu.be/bVcrbzUcx6M?t=83)|Prysmatic v1.0 launch party|
 3|[2020-04-20](https://us02web.zoom.us/j/86703865759?pwd=ZGxzZlBQTEY3UEVweGZHOFZ1N29mZz09)|[Agenda](agendas/2020-04-20.md)||Rocket Pool|
+4|[2020-05-04](https://us02web.zoom.us/j/83693871186?pwd=TkI3TVlYaUNBZjBwbzVyenZsOHFXUT09)|[Agenda](agendas/2020-05-04.md)||Simga Prime Lighthouse|[Reddit](https://www.reddit.com/r/ethstaker/comments/g8qwvv/ethereum_stakers_community_call_4_will_feature/)
