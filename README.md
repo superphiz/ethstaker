@@ -11,7 +11,7 @@ Calls are based on the community preference for the best day of the week and tim
 
 ### Call location
 
-Calls are currently being held on Zoom using a link provided in the agenda for each meeting (and linked by the date of the meeting below)
+Calls are currently being held on Zoom using a link provided in the agenda for each meeting (and linked by the date of the meeting below). We are slowly working to shift to a different platform.
 
 ### Call History
 
