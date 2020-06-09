@@ -7,7 +7,7 @@ https://twitter.com/eth2scc
 
 ### Call timing
 
-Calls are held on alternating Mondays at 10:00pm GMT (5pm Central Daylight Savings Time), please see the date pattern below.
+Calls are based on the community preference for the best day of the week and time. [Please complete this survey to help us schedule with you in mind.](https://docs.google.com/forms/d/e/1FAIpQLSeOLFOxIivjsBJ9bHKTEpsT5Le-aiBIYzjHG3UW2fl1m4ZAuA/viewform) This survey is open-ended and will be referenced frequently.
 
 ### Call location
 
