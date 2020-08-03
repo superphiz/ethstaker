@@ -27,4 +27,6 @@ Genesis Block
 
 -----------------------
 
-Remainder of the call will focus on metrics described in Danny's notes
+Metrics for the second half of the call: 
+
+https://notes.ethereum.org/@djrtwo/eth2-launch-metrics
