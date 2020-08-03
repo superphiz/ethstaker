@@ -6,13 +6,13 @@
 
 ## Public call begins 30 minutes before launch:
 
-3 min: Call Introduction - Superphiz, Nolan, r/ethstaker
+3 min: - Superphiz: Introduction to call, reference to r/ethstaker
 
-5 min: Launch Attendance POAP - Patricio Worthalter - send to ethstaker discord for poap kink
+5 min: Patricio Worthalter: Launch Attendance POAP - users should go to the [EthStaker discord](https://discord.gg/u2q7FRv) to receive a Launch Call POAP link.
 
-5 min: Testnet manager - Afri Schoedon
+5 min: Afri Schoedon: Testnet manager
 
-5 min: client POAP Description Beaconcha.in POAP portal (will be visible on the countdown page)
+5 min: Nolan: client POAP Description Beaconcha.in POAP portal (will be visible on the countdown page)
 
 7 min: Danny Ryan - launch prep
     * key metrics
