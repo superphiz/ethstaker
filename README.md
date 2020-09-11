@@ -11,7 +11,7 @@ Calls are based on the community preference for the best day of the week and tim
 
 ### Call location
 
-Calls are currently being held on Zoom using a link provided in the agenda for each meeting (and linked by the date of the meeting below). We are slowly working to shift to a different platform.
+Calls are currently being held on Zoom using a link provided in the agenda for each meeting (and linked by the date of the meeting below). 
 
 ### Call History
 
@@ -25,4 +25,4 @@ Special #1|2020-04-18||[YouTube](https://youtu.be/bVcrbzUcx6M?t=83)|Prysmatic v1
 5|[2020-05-18](https://us02web.zoom.us/j/83099118571?pwd=Q1NvMVRiMmNUUExLV3FuVjIyMXg2Zz09)|[Agenda](agendas/2020-05-18.md)|[YouTube](https://youtu.be/LB1MmF-mEKM)|Wallet management with Jim McDonald|[Reddit](https://www.reddit.com/r/ethstaker/comments/gfcbqu/ethereum_stakers_community_call_5_will_feature/)
 6|[2020-05-31](https://us02web.zoom.us/j/82423321664)|[Agenda](agendas/2020-05-31.md)|[YouTube](https://www.youtube.com/watch?v=C838NYaU77Q)|MultiClient Testnets with Afri Schoedon|[Reddit](https://www.reddit.com/r/ethstaker/comments/gukxns/watch_on_youtube_ethereum_stakers_community_call/)
 7||||Remo Test
-8|[2020-09-10](https://us02web.zoom.us/j/87271985745)|[Agenda](agendas/2020-09-10.md)|Youtube|Studymaster and Medalla Data Challenge|[Reddit](https://www.reddit.com/r/ethstaker/comments/iku0id/ethereum_stakers_community_call_6_eth2/)
+8|[2020-09-10](https://us02web.zoom.us/j/87271985745)|[Agenda](agendas/2020-09-10.md)|[Youtube](https://www.youtube.com/watch?v=lUAr0K_IDuw)|Studymaster and Medalla Data Challenge|[Reddit](https://www.reddit.com/r/ethstaker/comments/iku0id/ethereum_stakers_community_call_6_eth2/)
