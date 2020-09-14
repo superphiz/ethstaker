@@ -26,5 +26,4 @@ Special #1|2020-04-18||[YouTube](https://youtu.be/bVcrbzUcx6M?t=83)|Prysmatic v1
 6|[2020-05-31](https://us02web.zoom.us/j/82423321664)|[Agenda](agendas/2020-05-31.md)|[YouTube](https://www.youtube.com/watch?v=C838NYaU77Q)|MultiClient Testnets with Afri Schoedon|[Reddit](https://www.reddit.com/r/ethstaker/comments/gukxns/watch_on_youtube_ethereum_stakers_community_call/)
 7||||Remo Test
 8|[2020-09-10](https://us02web.zoom.us/j/87271985745)|[Agenda](agendas/2020-09-10.md)|[Youtube](https://www.youtube.com/watch?v=lUAr0K_IDuw)|Studymaster, Medalla Data Challenge, Secret Shared Validators|[Reddit](https://www.reddit.com/r/ethstaker/comments/iku0id/ethereum_stakers_community_call_6_eth2/)
-9|[2020-09-17](https://us02web.zoom.us/j/81037555266
-)|[Agenda](agendas/2020-09-17.md)|[Youtube]()|Protolamba, Eth2 developer and jack of all trades|[Reddit]()
+9|[2020-09-17](https://us02web.zoom.us/j/81037555266)|[Agenda](agendas/2020-09-17.md)|[Youtube]()|Protolamba, Eth2 developer and jack of all trades|[Reddit]()
